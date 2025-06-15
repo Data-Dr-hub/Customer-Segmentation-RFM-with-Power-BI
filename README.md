@@ -55,10 +55,3 @@ The bubble chart in the Power BI dashboard visually represents the different cus
 
 **Next Focus:** 
 **"Loyal Customers"** offer high engagement but lower spending, so encouraging higher basket values here could yield additional gains with minimal effort.
-
-
-
-# CLV PROJECT
-
-- The Queries: [CLV Queries](ClvQueries.sql)
-- The Spreadsheet: [CLV spreadsheet](https://docs.google.com/spreadsheets/d/1gJ4HS8z3sdNAtHL8-GleoRmNuKeb0-zl3OiOAmKf3Cs/edit?gid=502478635#gid=502478635)
