@@ -29,7 +29,7 @@ In this analysis, we’ve segmented customers into five distinct categories base
 - Criteria: Recency ≥ 5 days.
 - Description: These customers haven’t made a purchase for a significant amount of time and have low FM scores. They are considered inactive or disengaged, and re-engagement efforts may be necessary to prevent them from switching to competitors.
 
-[](bubble.PNG)
+![](bubble.PNG)
 
 The bubble chart in the Power BI dashboard visually represents the different customer segments based on Recency, Frequency, and Monetary values. Here's a quick breakdown of the chart:
 
