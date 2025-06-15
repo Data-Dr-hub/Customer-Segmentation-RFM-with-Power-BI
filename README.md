@@ -1,5 +1,7 @@
 # Customer Segmentation - RFM Analysis
 
+![](rfm_snap.PNG)
+
 In this analysis, we’ve segmented customers into five distinct categories based on their Recency, Frequency, and Monetary (RFM) values. Let’s break down each segment:
 
 **Best Customers** 🏆
@@ -27,7 +29,8 @@ In this analysis, we’ve segmented customers into five distinct categories base
 - Criteria: Recency ≥ 5 days.
 - Description: These customers haven’t made a purchase for a significant amount of time and have low FM scores. They are considered inactive or disengaged, and re-engagement efforts may be necessary to prevent them from switching to competitors.
 
----------
+[](bubble.PNG)
+
 The bubble chart in the Power BI dashboard visually represents the different customer segments based on Recency, Frequency, and Monetary values. Here's a quick breakdown of the chart:
 
 1. **X-Axis (Average Recency)**: Measures how recently the customers made their last purchase. Lower values indicate more recent purchases, and higher values mean it has been longer since the last purchase.
